@@ -1,6 +1,55 @@
 {
-  "description": "Internal research and development of cloud applications.",
-  "name": "Research and Development",
-  "parent_ou_id": 1,
-  "permission_scheme_id": 2
+    "data": {
+        "awsAccountInfo": {
+            "DescriptionOfAccountPurpose": "dateTime|UNIX",
+            "awsRegions": "awsRegions",
+            "awsServicesLists": "awsServicesLists",
+            "primAwsAdminContactEmail": "primaryAwsAdminContactEmail",
+            "rootAccountEmail": "rootAccountEmail",
+            "rootAccountNumber": "rootAccountNumber",
+            "secAwsAdminContactEmail": "secAwsAdminContactEmail"
+        },
+        "awsNetworkInfo": {
+            "ElasticIpRequired": "ElasticIpRequired",
+            "NumOfSubnetRequired": "NumOfSubnetRequired",
+            "OnPremNetwork": "OnPremNetwork",
+            "crossRegApplicationAccess": "crossRegionApplicationAccess",
+            "regionInformation": "regionInformation",
+            "requiredCidrBlockSize": "requiredCidrBlockSize",
+            "vpcEndPointsNeeded": "vpcEndPointsNeeded"
+        },
+        "awsSecurityInfo": {
+            "3rdPartyVendor": "3rdPartyVendor",
+            "dataClassification": "dataClassification",
+            "externalFacingSystems": "externalFacingSystems",
+            "natureOfWork": "natureOfWork",
+            "numOfUsersInEachEnv": "numOfUsersInEachEnv",
+            "offshoreResources": "offshoreResources",
+            "regulatoryRequirements": "regulatoryRequirements"
+        },
+        "finance_info": {
+            "MonthlyForecaseAmount": "MonthlyForecaseAmount",
+            "budgetProjectCode": "budgetProjectCode",
+            "costCenter": "costCenter",
+            "primaryFinanceContactEmail": "primaryFinanceContactEmail",
+            "secFinanceContactEmail": "secFinanceContactEmail",
+            "tcoWorkSheetOutput": "tcoWorkSheetOutput"
+        },
+        "project_info": {
+            "accountType": "accountType",
+            "businessGroup": "businessGroup",
+            "businessUnit": "businessUnit",
+            "documentation": "documentation",
+            "primaryBusinessContactEmail": "priBusinessContactEmail",
+            "productTeamName": "productTeamName",
+            "projectName": "dateTime|UNIX",
+            "projectVastId": "internetIP4",
+            "secBusinessContactEma": "secondaryBusinessContactEmail"
+        },
+        "timestamp": "Thu Nov 20 10:26:34 UTC 1975",
+        "username": "oniabifo@gmail.com"
+    },
+    "parameters": {
+        "code": 200
+    }
 }
