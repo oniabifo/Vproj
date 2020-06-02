@@ -42,8 +42,8 @@
             "documentation": "documentation",
             "primaryBusinessContactEmail": "priBusinessContactEmail",
             "productTeamName": "productTeamName",
-            "projectName": "dateTime|UNIX",
-            "projectVastId": "internetIP4",
+            "projectName": "This is an OU Test Project",
+            "projectVastId": 45673,
             "secBusinessContactEma": "secondaryBusinessContactEmail"
         },
         "timestamp": "Thu Nov 20 10:26:34 UTC 1975",
