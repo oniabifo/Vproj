@@ -1,14 +1,6 @@
 {
   "description": "Internal research and development of cloud applications.",
   "name": "Research and Development",
-  "owner_user_group_ids": [
-    1,
-    2
-  ],
-  "owner_user_ids": [
-    1,
-    2
-  ],
   "parent_ou_id": 1,
   "permission_scheme_id": 2
 }
